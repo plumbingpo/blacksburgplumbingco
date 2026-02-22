@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blacksburgplumbingco.com/sitemap.xml
